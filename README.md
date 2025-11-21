@@ -1,4 +1,4 @@
-# Robot Test Automation Suite (ROS 2 + Gazebo + TurtleBot)
+# Robot Test Automation Suite (ROS 2/Gazebo/TurtleBot)
 
 ## Objective
 
